@@ -5,9 +5,9 @@ source "https://rubygems.org"
 #
 #     bundle exec jekyll serve
 #
-#gem "github-pages", group: :jekyll_plugins
+gem "github-pages", group: :jekyll_plugins
 
-gem "github-pages", "~> 228", group: :jekyll_plugins
+#gem "github-pages", "~> 228", group: :jekyll_plugins
 
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
