@@ -6,15 +6,10 @@ permalink: /about/
 
 <h1 class="page-heading">{{ page.title }}</h1>
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This video explains it all.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+<iframe width="600" height="400"
+src="https://www.youtube.com/embed/tgbNymZ7vqY?autoplay=0&mute=1">
+</iframe>
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+...Sorry.
