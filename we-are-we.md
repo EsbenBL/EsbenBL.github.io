@@ -4,6 +4,8 @@ title: Who are we?
 permalink: /we_are_we/
 ---
 
+<h1 class="page-heading">{{ page.title }}</h1>
+
 We are Social Data Visualization. Period.
 <html>
 <head>
