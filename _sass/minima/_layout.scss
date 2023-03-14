@@ -1,4 +1,14 @@
 /**
+ * Scrollbar - Always on to prevent shifts in content
+ */
+
+body {
+  margin: 0;
+  padding: 0;
+  overflow:scroll;
+} 
+
+/**
  * Site header
  */
 .site-header {
@@ -102,13 +112,13 @@
 }
 
 
-
 /**
  * Site footer
  */
 .site-footer {
   border-top: 1px solid $grey-color-light;
   padding: $spacing-unit 0;
+  background-color:#FEB67A;
 }
 
 .footer-heading {
