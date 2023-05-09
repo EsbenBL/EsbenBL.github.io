@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Table of Contents
+title: Projects
 permalink: /ToC/
 weight: 1
 ---
 
 <div class="page">
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Table of Contents" }}</h2>
+    <h2 class="post-list-heading">{{ page.list_title | default: "Projects" }}</h2>
     <ul class="post-list">
       {%- for post in site.posts -%}
       <li>
